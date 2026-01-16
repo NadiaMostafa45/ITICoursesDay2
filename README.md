@@ -11,3 +11,9 @@ git stash
 git checkout dev
 git stash pop
 
+to remove tag local
+git tag -d v1.7
+to remove tag from github 
+git push origin --delete v1.7
+
+
