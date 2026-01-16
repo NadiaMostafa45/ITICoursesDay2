@@ -18,3 +18,4 @@ git push origin --delete v1.7
 
 <img width="1920" height="1080" alt="Screenshot (1725)" src="https://github.com/user-attachments/assets/32cad4ad-c2a1-4beb-9a5c-7d9c820f4045" />
 
+<img width="1920" height="1080" alt="Screenshot (1724)" src="https://github.com/user-attachments/assets/3fde2fc9-da82-47a4-abf5-8f7147c14596" />
